@@ -923,10 +923,10 @@
 
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 391px) {
   
   .container {
-    width: 150%;
+    width: 100%;
     height: auto;
     padding: 0 10px 0 24px;
     box-sizing: border-box;
@@ -992,7 +992,7 @@
   }
 
   .header__button {
-    width: 150px;
+    width: 100%;
   }
 
 
@@ -1015,7 +1015,7 @@
   }
 
   .description__button {
-    width: 150px;
+    width: 100%;
   }
 
   .main_description_img{
@@ -1090,7 +1090,7 @@
   }
 
   .photo_fon {
-    width: 570px;
+    width: 390px;
     height: 430px;
     border-radius: 32px;
   }
@@ -1114,6 +1114,7 @@
     margin-top: 0;
     width: 100%;
   }
+  
 
 
   .main_process_cards {
@@ -1166,10 +1167,11 @@
 
   .main_request {
     margin-top: -45px;
+
   }
 
   .request_fon {
-    width: 570px;
+    width: 390px;
     height: 520px;
     border-radius: 32px;
   }
@@ -1208,7 +1210,7 @@
   }
 
   .where_fon {
-    width: 570px;
+    width: 390px;
     height: 520px;
     border-radius: 32px;
   }
@@ -1257,7 +1259,7 @@
     align-items: center;
     text-align: center;
     gap: 16px;
-    width: 586px;
+    width: 390px;
     height: 630px;
   }
 
@@ -1273,7 +1275,7 @@
   }
 
   .footer_inf_fon2 {
-    width: 586px;
+    width: 390px;
     height: 64px;
     text-align: center;
     align-items: center;
