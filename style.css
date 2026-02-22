@@ -5,19 +5,19 @@
 
 @font-face {
   font-family: Montserrat_ExtraBold;
-  src: url(fonts/ExtraBold_Montserrat.ttf);
+  src: url(../fonts/ExtraBold_Montserrat.ttf);
 }
 @font-face {
   font-family: Montserrat_Bold;
-  src: url(fonts/Bold_Montserrat.ttf);
+  src: url(../fonts/Bold_Montserrat.ttf);
 }
 @font-face {
   font-family: Montserrat_Medium;
-  src: url(fonts/Medium_Montserrat.ttf );
+  src: url(../fonts/Medium_Montserrat.ttf );
 }
 @font-face {
   font-family: Montserrat_Light;
-  src: url(fonts/Light_Montserrat.ttf);
+  src: url(../fonts/Light_Montserrat.ttf);
 }
 
 
