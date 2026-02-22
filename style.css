@@ -923,10 +923,10 @@
 
 
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 391px) {
   
   .container {
-    width: 150%;
+    width: 100%;
     height: auto;
     padding: 0 10px 0 24px;
     box-sizing: border-box;
